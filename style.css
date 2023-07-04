@@ -1,8 +1,28 @@
-body {
-  font-family: 'Montserrat', sans-serif;
-}
+/*body {*/
+/*  font-family: 'Montserrat', sans-serif;*/
+/*}*/
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 10px;
+}
+
+body {
+  /*background-color: #71caea;*/
+}
+
+h2 {
+  color: #980ce1;
+  /*text-align: center;*/
+}
+
+p {
+  font-size: 24px;
+}
+
+table, th, td {
+  /*background-color: #71caea;*/
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
